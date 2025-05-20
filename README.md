@@ -1,5 +1,7 @@
 # -ogrenciTakipProjeManagment
 
+Öğrenci takip prgramı üniversite sınavına hazırlanan öğrencilerin eksiklerini deneme sınav analizleri yaparak yapay zaka algoritmaları kullanarak tespit etmeye ve her öğrenci için kişiselleştirilmiş öneriler sunmayı amaçlayan bir programdır.
+
 
 
 # Proje Dokümanları ve Açıklamaları
